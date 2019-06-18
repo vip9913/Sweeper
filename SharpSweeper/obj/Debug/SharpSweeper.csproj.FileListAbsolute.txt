@@ -1,0 +1,9 @@
+C:\Users\vip\Desktop\My_Programming\!Student_Videosharp\Сапёр\SharpSweeper\SharpSweeper\bin\Debug\SharpSweeper.exe.config
+C:\Users\vip\Desktop\My_Programming\!Student_Videosharp\Сапёр\SharpSweeper\SharpSweeper\bin\Debug\SharpSweeper.exe
+C:\Users\vip\Desktop\My_Programming\!Student_Videosharp\Сапёр\SharpSweeper\SharpSweeper\bin\Debug\SharpSweeper.pdb
+C:\Users\vip\Desktop\My_Programming\!Student_Videosharp\Сапёр\SharpSweeper\SharpSweeper\obj\Debug\SharpSweeper.csprojResolveAssemblyReference.cache
+C:\Users\vip\Desktop\My_Programming\!Student_Videosharp\Сапёр\SharpSweeper\SharpSweeper\obj\Debug\SharpSweeper.Form.resources
+C:\Users\vip\Desktop\My_Programming\!Student_Videosharp\Сапёр\SharpSweeper\SharpSweeper\obj\Debug\SharpSweeper.Properties.Resources.resources
+C:\Users\vip\Desktop\My_Programming\!Student_Videosharp\Сапёр\SharpSweeper\SharpSweeper\obj\Debug\SharpSweeper.csproj.GenerateResource.Cache
+C:\Users\vip\Desktop\My_Programming\!Student_Videosharp\Сапёр\SharpSweeper\SharpSweeper\obj\Debug\SharpSweeper.exe
+C:\Users\vip\Desktop\My_Programming\!Student_Videosharp\Сапёр\SharpSweeper\SharpSweeper\obj\Debug\SharpSweeper.pdb
